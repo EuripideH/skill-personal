@@ -1,8 +1,8 @@
 ## Bouddha-quote
-List of quote from Bouddha
+List of quotes from Bouddha
 
 ## Description 
-Mycroft can tell several famous quotes from Bouhha
+Mycroft can tell several famous quotes from Bouddha
 
 ## Examples 
 * "tell me a quote from Bouddha"
